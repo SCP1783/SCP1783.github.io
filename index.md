@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 无聊的面包
 
 You can use the [editor on GitHub](https://github.com/SCP1783/SCP1783.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
