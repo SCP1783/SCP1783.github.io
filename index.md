@@ -13,7 +13,9 @@
 或者看看我的大学   [学校](http://www.gdlgxy.com).
 亦或者你想知道我平时在哪里充电吗？  [1](https://www.runoob.com).  [2](www.github.com).
 ```
-
+没有什么想说的，请你玩个游戏[Mikutap](https://aidn.jp/mikutap/).
+或者看看我的大学   [学校](http://www.gdlgxy.com).
+亦或者你想知道我平时在哪里充电吗？  [1](https://www.runoob.com).  [2](www.github.com).
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
