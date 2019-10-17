@@ -12,6 +12,6 @@
 亦或者你想知道我平时在哪里充电吗？  [1](https://www.runoob.com).  [2](www.github.com).
 
 ### Test
-![image](http://b-ssl.duitang.com/uploads/blog/201510/20/20151020200027_ESUjG.jpeg)
+[![image](http://b-ssl.duitang.com/uploads/blog/201510/20/20151020200027_ESUjG.jpeg)](SCP1783.github.io/Chieftain)
 ### Test
 
