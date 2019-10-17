@@ -11,9 +11,7 @@
 亦或者你想知道我平时在哪里充电吗？  [1](https://www.runoob.com).  [2](www.github.com).
 
 ### Jekyll Themes
-[![](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SCP1783/SCP1783.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+![image](https://github.com/panacena/mengqu/blob/master/readme/Screenshot_2016-07-10-22-17- 15_zkk.com.mengqu.png)
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
