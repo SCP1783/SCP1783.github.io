@@ -15,4 +15,3 @@
 ### Test
 [![image](http://b-ssl.duitang.com/uploads/blog/201510/20/20151020200027_ESUjG.jpeg)](SCP1783.github.io/Chieftain.md/)
 ### Test
-
