@@ -13,5 +13,5 @@
 亦或者你想知道我平时在哪里充电吗？  [充电站1](https://www.runoob.com)、[充电站2](https://github.com)。
 
 ### Test
-[![image](http://b-ssl.duitang.com/uploads/blog/201510/20/20151020200027_ESUjG.jpeg)](SCP1783.github.io/Chieftain.html)
+[![image](http://b-ssl.duitang.com/uploads/blog/201510/20/20151020200027_ESUjG.jpeg)](SCP1783.github.io/Chieftain.md)
 ### Test
