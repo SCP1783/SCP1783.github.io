@@ -11,8 +11,7 @@
 或者看看我的大学   [学校](http://www.gdlgxy.com).
 亦或者你想知道我平时在哪里充电吗？  [1](https://www.runoob.com).  [2](www.github.com).
 
-### Jekyll Themes
+### Test
 ![image](http://b-ssl.duitang.com/uploads/blog/201510/20/20151020200027_ESUjG.jpeg)
-### Support or Contact
+### Test
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
