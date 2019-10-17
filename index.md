@@ -1,4 +1,4 @@
-#![image](http://b-ssl.duitang.com/uploads/blog/201510/20/20151020200027_ESUjG.jpeg)
+![image](http://b-ssl.duitang.com/uploads/blog/201510/20/20151020200027_ESUjG.jpeg)
 ## 无聊的面包
 
 这是我在GitHub上的个人博客。
