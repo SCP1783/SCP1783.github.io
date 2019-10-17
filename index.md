@@ -6,20 +6,12 @@
 
 ### 无聊的面包
 
-
-
-```markdown
 没有什么想说的，请你玩个游戏[Mikutap](https://aidn.jp/mikutap/).
 或者看看我的大学   [学校](http://www.gdlgxy.com).
 亦或者你想知道我平时在哪里充电吗？  [1](https://www.runoob.com).  [2](www.github.com).
-```
-没有什么想说的，请你玩个游戏[Mikutap](https://aidn.jp/mikutap/).
-或者看看我的大学   [学校](http://www.gdlgxy.com).
-亦或者你想知道我平时在哪里充电吗？  [1](https://www.runoob.com).  [2](www.github.com).
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
+[![](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SCP1783/SCP1783.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
